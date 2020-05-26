@@ -30,5 +30,7 @@ The team's internal definition of when a user story / task is done
 ``` 
 - Retrospective 
 ``` html
+
 https://trello.com/c/zidSg89R/78-retrospective 
+
 ```
