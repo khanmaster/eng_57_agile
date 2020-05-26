@@ -1,10 +1,12 @@
+
+
 # 26/05/2020 Bright New Agile Morning 
-## Daily standup
+## Daily stand up
 ### Update scrum board
-- Team task in the morning to search agile and scrum artifacts
+- Team task in the morning to search agile and Scrum Arti-facts
 ```markdown
 10:15 
-Group 1: User stories, the acceptance criterion, DOD
+Group 1: User stories, the acceptance criteria, DOD
 - Example of a User story, Example of acceptance criteria and DOD + Definitions
 
 Group 2: Scrum Ceremonies
@@ -16,7 +18,7 @@ Group 3: Scrum Roles - which are more important
 - Definition of each role
 - Definition Scrum team and what are the Spotify Tribes?  
 
-Group 4: Scrum artifacts & information radiators 
+Group 4: Scrum Artifacts & information radiators 
 - Epic VS User story (example)
 - Example of a Burndown chart, a burn-up chart 
 - Trello board 
