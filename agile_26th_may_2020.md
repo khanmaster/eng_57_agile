@@ -28,7 +28,7 @@ The team's internal definition of when a user story / task is done
 - It will be a PowerPoint 
 - it will be in our engineering 57 files
 ``` 
-- Retrospective 
+### Retrospective 
 ``` html
 
 https://trello.com/c/zidSg89R/78-retrospective 
